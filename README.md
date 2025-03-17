@@ -5,7 +5,9 @@ Esta aplicación simple de JavaScript permite crear una lista de amigos y sortea
 
 👨‍💻 Autor
 Desarrollado por: Abdiel Bernal
+
 GitHub: 2apty507
+
 Instagram: 2apty
 
 🛠️ Funcionalidades
